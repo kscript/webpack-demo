@@ -1,4 +1,7 @@
 # wepack-demo
 
 #### 项目介绍
-从零开始搭建wepack
+搭建wepack
+
+#### 文档
+[查看 Docs](./docs/index.md)
