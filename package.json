@@ -27,9 +27,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/kscript/react"
+    "url": "https://github.com/kscript/webpack-demo"
   },
   "dependencies": {
-    "lodash": "^4.17.11"
   }
 }
